@@ -125,4 +125,4 @@ class CloudflareSeeder(object):
         """ Set a list of seeds as DNS entries in cloudflare. """
 
         for seed in seeds:
-self.set_seed(seed, ttl)
+            self.set_seed(seed, ttl)
