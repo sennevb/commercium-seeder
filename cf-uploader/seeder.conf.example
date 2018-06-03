@@ -1,0 +1,7 @@
+[general]
+domain=yourdomain.com
+name=autoseeds
+user=your@email.com
+key=XXXXCLOUDFLAREAPIKEYXXXXX
+seed_dump=/path/to/dnsseed.dump
+hard_seeds=/path/to/hardseeds.txt
