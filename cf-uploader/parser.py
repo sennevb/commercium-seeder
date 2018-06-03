@@ -87,4 +87,4 @@ def read_seed_dump(seeds_file, valid_port="62458"):
     if not addresses:
         raise errors.SeedsNotFound("No good seeds read from seeds dump file: {}".format(seeds_file))
 
-     return addresses
+    return addresses
