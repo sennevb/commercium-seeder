@@ -1,4 +1,5 @@
 Put seeder.conf in either /etc/seeder.conf or ~/.seeder/seeder.conf
+(rename seeder.conf.example and adjust it)
 
 Configure with your params
 
