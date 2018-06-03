@@ -1,3 +1,11 @@
+Requirements (ubuntu 16.04)
+------------
+apt install python-pip
+pip install --upgrade pip
+sudo pip install cloudflare
+
+
+
 Put seeder.conf in either /etc/seeder.conf or ~/.seeder/seeder.conf
 (rename seeder.conf.example and adjust it)
 
